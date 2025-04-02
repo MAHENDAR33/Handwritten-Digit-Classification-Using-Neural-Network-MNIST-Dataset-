@@ -22,4 +22,4 @@ Prediction on New Images
 •	A function is implemented to visualize and predict a single digit from the test dataset.
 Conclusion
 This project demonstrates an effective FCNN for digit recognition. The accuracy can be further improved by implementing convolutional neural networks (CNNs), experimenting with different optimizers, or adding dropout layers to prevent overfitting.
-4o
+
